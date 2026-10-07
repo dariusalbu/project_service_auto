@@ -1,0 +1,26 @@
+package com.autoservice.backend.enums;
+
+public enum PartCategory {
+    ENGINE,
+    ENGINE_COOLING,
+    ENGINE_OILS_FLUIDS,
+    EXHAUST,
+    FUEL_SYSTEM,
+    FILTERS,
+    TRANSMISSION,
+    DRIVETRAIN,
+    BRAKES,
+    SUSPENSION,
+    STEERING,
+    IGNITION,
+    ELECTRICITY,
+    BATTERIES,
+    LIGHTING,
+    BODY,
+    WIPERS_WASHERS,
+    INTERIOR,
+    HEATING_AIR_CONDITIONING,
+    WHEELS_TIRES,
+    ACCESSORIES,
+    UNIVERSAL
+}
